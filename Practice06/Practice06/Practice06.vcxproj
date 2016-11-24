@@ -82,7 +82,9 @@
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Frame.h" />
     <ClInclude Include="KeyEvent.h" />
+    <ClInclude Include="Template.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
